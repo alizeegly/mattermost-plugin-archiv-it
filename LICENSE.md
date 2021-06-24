@@ -1,4 +1,3 @@
-**This plugin is under licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License**
 **This repository is under licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License**
 
 
