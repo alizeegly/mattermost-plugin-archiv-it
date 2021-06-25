@@ -6,7 +6,7 @@ linters-settings:
   gofmt:
     simplify: true
   goimports:
-    local-prefixes: github.com/mattermost/mattermost-starter-template
+    local-prefixes: https://github.com/alizeegly/mattermost-plugin-tags
   golint:
     min-confidence: 0
   govet:
