@@ -153,6 +153,3 @@ Pour effectuer cela dans le terminal, aller dans le dossier du projet puis entre
 $ brew install golangci-lint
 $ make
 ```
-
-## Cahier des charges 
-[Lien]
