@@ -56,7 +56,7 @@ L'archivage est un ensemble d'actions qui a pour but de garantir l'accessibilit�
 
 Il existe deux types d'espaces permettant de classer les messages archivés :
 
-> - « L’archive du canal » est un espace dépendant d’un canal. Il est dédié aux messages enregistrés par le ou les admins du canal. Cette archive est spécifique au canal dans laquelle elle a été enregistrée. L’ensemble des utilisateurs faisant partie du canal sont en mesure d’y accéder.
+ - « L’archive du canal » est un espace dépendant d’un canal. Il est dédié aux messages enregistrés par le ou les admins du canal. Cette archive est spécifique au canal dans laquelle elle a été enregistrée. L’ensemble des utilisateurs faisant partie du canal sont en mesure d’y accéder.
 
 - « Mes archives » est un espace personnel indépendant des canaux, dédié aux messages pour chaque utilisateurs qui permet également d'enregistrer et classer différents messages. Il est possible d’inviter d’autres membre du serveur Mattermost à accéder et rejoindre cet espace. 
 
@@ -92,8 +92,6 @@ Cette fonction de suppression automatique va donc de paire avec la catégorisati
 → Répondre aux contraintes de stockage  
 → Suppression des messages sans importance
 
-![mode_autodelete_function](mode_autodelete_function.png)
-
 
 ### Fonction d'export
 
@@ -104,8 +102,6 @@ Cette fonctionnalité consiste à exporter une conversation ou bien une partie d
 → Possibilité de sauvegarde global (backup)
 → Possibilité de sauvegarder les messages susceptible d'être supprimés par la fonction de supression automatique (backup)
 → Possibilité de régler des ligites (Ressources humaines, relation client)
-
-![mode_export_function](mode_export_function.png)
 
 
 ## Technologies choisies
