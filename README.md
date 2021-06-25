@@ -4,7 +4,7 @@
 ![Linux](https://img.shields.io/badge/OS-MacOS-blue)
 ![Docker](https://img.shields.io/badge/Docker-19.03.13-blue)
 ![Mattermost](https://img.shields.io/badge/Mattermost-5.36.1-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![License](https://img.shields.io/badge/License-CC--BY--NC--SA-lightgrey)
 
 
 # Plugin Archiv'It
