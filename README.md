@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 
-# Plugin Archiv It
+# Plugin Archiv'It
 
 
 ## Authors
