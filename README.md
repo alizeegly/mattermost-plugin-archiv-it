@@ -12,13 +12,13 @@
 
 ## Authors
 Ce plugin a été développé par notre équipe, composé de 7 étudiants : 
->Alizée GILLOUAYE
-Jordy HERAS
-Mathieu LIENARD
-Paul ANDRE
-Thomas VRILLAC
-Xavier IYEZE
-Zakariya REZOK
+>Alizée GILLOUAYE - alizee.gillouaye@eemi.com
+Jordy HERAS - jordy.heras@eemi.com
+Mathieu LIENARD - mathieu.lienard@eemi.com
+Paul ANDRE - paul.andre@eemi.com
+Thomas VRILLAC - thomas.vrillac@eemi.com
+Xavier IYEZE - xavier.lyeze@eemi.com
+Zakariya REZOK - zakariya.rezok@eemi.com
 
 ## Purpose
 Ce plugin dédié à Mattermost, a pour objectif principal de simplifier l’utilisation des services de messagerie en permettant l’archivage et l'accès rapide aux informations pertinentes dans une logique d'amélioration de productivité. 
@@ -34,7 +34,7 @@ Nos travaux s’inscrivent dans un projet open-source communautaire. C'est pourq
 
 À savoir, que nous aimerions à terme, le rendre déployable sur d'autres services de messagerie tels que Slack, Teams, ou encore Discord. 
 
-Si vous souhaitez contacter un membre de notre équipe, n'hésitez pas à envoyer un mail à : contact@archivit.club
+Si vous souhaitez contacter un membre de notre équipe, n'hésitez pas à envoyer un mail à un membre.
 
 
 ## Contexte : problématique
