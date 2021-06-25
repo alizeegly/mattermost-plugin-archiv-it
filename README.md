@@ -21,7 +21,7 @@ Xavier IYEZE
 Zakariya REZOK
 
 ## Purpose
-Ce plugin dédié à Mattermost, a pour objectif principal de simplifier l’utilisation des services de messagerie en facilitant l’archivage et l'accès rapide aux informations pertinentes dans une logique d'amélioration de productivité. 
+Ce plugin dédié à Mattermost, a pour objectif principal de simplifier l’utilisation des services de messagerie en permettant l’archivage et l'accès rapide aux informations pertinentes dans une logique d'amélioration de productivité. 
 
 Par ailleurs, notre équipe projet vient de finaliser la phase d'idéation. Pour cette raison, seul le squelette du plugin a été développé pour l'instant. 
 
