@@ -27,7 +27,7 @@ Par ailleurs, notre équipe projet vient de finaliser la phase d'idéation. Pour
 
 Voici notre Roadmap :
 
-![roadmap-archivit](roadmap-archivit.png)
+![roadmap-archivit](prev_function_archive.png)
 
 
 Nos travaux s’inscrivent dans un projet open-source communautaire. C'est pourquoi, nous sommes ouverts à toutes contributions via notre repository. 
